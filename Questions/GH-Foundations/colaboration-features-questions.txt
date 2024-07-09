@@ -1,0 +1,140 @@
+"Collaboration Features"
+
+
+1: What is the main purpose of a pull request in GitHub?
+
+A. To create a new repository
+B. To merge code changes from one branch to another
+C. To delete a branch
+D. To view the commit history
+E. To change repository settings
+
+2: How can you assign a reviewer to a pull request?
+
+A. By using the git assign command
+B. By editing the .gitignore file
+C. By clicking the "Reviewers" section in the pull request and selecting a user
+D. By creating a new branch
+E. By pushing changes to the repository
+
+3: What feature allows you to discuss and collaborate on the proposed changes in a pull request?
+
+A. GitHub Pages
+B. GitHub Issues
+C. GitHub Discussions
+D. GitHub Comments
+E. GitHub Projects
+
+4: Which GitHub feature allows you to track bugs and enhancements?
+
+A. Pull Requests
+B. Issues
+C. Commits
+D. Branches
+E. Forks
+
+5: How do you link a pull request to an issue on GitHub?
+
+A. By mentioning the issue number in the pull request description
+B. By creating a new branch
+C. By using the git link command
+D. By editing the .gitignore file
+E. By changing the repository settings
+
+6: What is a GitHub Project Board used for?
+
+A. To create new repositories
+B. To host GitHub Pages
+C. To organize and track the progress of issues and pull requests
+D. To merge branches
+E. To delete repositories
+
+7: How do you create a new issue in a GitHub repository?
+
+A. By running git create issue in the terminal
+B. By creating a new branch
+C. By going to the "Issues" tab in the repository and clicking "New Issue"
+D. By editing the README file
+E. By forking the repository
+
+8: What is the purpose of labels in GitHub issues?
+
+A. To assign tasks to contributors
+B. To categorize and prioritize issues and pull requests
+C. To merge branches
+D. To clone repositories
+E. To create new branches
+
+9: How can you close an issue in GitHub?
+
+A. By merging a pull request that fixes the issue
+B. By deleting the issue
+C. By creating a new branch
+D. By editing the issue description
+E. By forking the repository
+
+10: What command can be used to fetch all the branches and their commits from a remote repository?
+
+A. git pull
+B. git fetch
+C. git merge
+D. git clone
+E. git push
+
+11: How can you reference another user in a GitHub issue or pull request comment?
+
+A. By using their email address
+B. By using their username prefixed with @
+C. By using their GitHub ID
+D. By using their full name
+E. By using their repository name
+
+12: What is a milestone in GitHub?
+
+A. A predefined commit message template
+B. A set of issues and pull requests that are tracked together for a common goal
+C. A branch that is marked as important
+D. A repository that has been archived
+E. A tag for specific commits
+
+13: How do you request a review for a pull request on GitHub?
+
+A. By using the git request review command
+B. By creating a new issue
+C. By adding a reviewer in the pull request interface
+D. By merging the pull request
+E. By forking the repository
+
+14: What is the purpose of a code review in GitHub?
+
+15. To merge branches
+B. To delete issues
+C. To provide feedback and ensure code quality before merging changes
+D. To create new branches
+E. To push changes to the repository
+
+Q: How can you check the status of a pull request?
+
+A. By viewing the "Commits" tab in the repository
+B. By checking the "Pull Requests" tab in the repository
+C. By looking at the README file
+D. By running git status in the terminal
+E. By creating a new issue
+
+## Gabarito
+
+1. B
+2. C
+3. D
+4. B
+5. A
+6. C
+7. C
+8. B
+9. A
+10. B
+11. B
+12. B
+13. C
+14. C
+15. B
