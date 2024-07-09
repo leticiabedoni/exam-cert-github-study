@@ -1,0 +1,49 @@
+"Working with GitHub Repositories"
+
+1: How can you view the status of your working directory and staging area in Git
+
+A. git view
+B. git check
+C. git status
+D. git inspect
+E. git stage
+
+2: Which command creates a copy of a repository and all its history in a new location
+
+A. git clone
+B. git copy
+C. git duplicate
+D. git init
+E. git fork
+
+3: What is the command to discard changes in your working directory
+
+A. git revert
+B. git discard
+C. git reset
+D. git clean
+E. git checkout
+
+4: What file typically contains information about a project's dependencies in a GitHub repository
+
+A. README.md
+B. LICENSE
+C. .gitignore
+D. package.json
+E. config.yml
+
+5: Which command is used to delete a branch locally in Git
+
+A. git delete branch
+B. git remove branch
+C. git branch -d <branch>
+D. git clean branch
+E. git drop branch
+
+## Gabarito
+
+1. C
+2. A
+3. E
+4. D
+5. C
